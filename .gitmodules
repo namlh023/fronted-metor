@@ -4,3 +4,6 @@
 [submodule "01_newbie/order-summary-component"]
 	path = 01_newbie/order-summary-component
 	url = https://github.com/namlh023/Order-Summary-Component
+[submodule "01_newbie/equalizer-landing-page"]
+	path = 01_newbie/equalizer-landing-page
+	url = https://github.com/namlh023/equalizer-landing-page

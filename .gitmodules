@@ -31,3 +31,6 @@
 [submodule "01_newbie/single-price-grid"]
 	path = 01_newbie/single-price-grid
 	url = https://github.com/namlh023/Single-Price-Grid
+[submodule "01_newbie/four-card-feature-section"]
+	path = 01_newbie/four-card-feature-section
+	url = https://github.com/namlh023/four-card-feature-section

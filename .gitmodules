@@ -28,3 +28,6 @@
 [submodule "01_newbie/meet-landing-page"]
 	path = 01_newbie/meet-landing-page
 	url = https://github.com/namlh023/meet-landing-page
+[submodule "01_newbie/single-price-grid"]
+	path = 01_newbie/single-price-grid
+	url = https://github.com/namlh023/Single-Price-Grid

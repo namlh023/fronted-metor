@@ -46,3 +46,6 @@
 [submodule "01_newbie/intro-with-sign-up-form"]
 	path = 01_newbie/intro-with-sign-up-form
 	url = https://github.com/namlh023/intro-component-with-sign-up-form
+[submodule "01_newbie/pod-landing-page"]
+	path = 01_newbie/pod-landing-page
+	url = https://github.com/namlh023/pod-landing-page

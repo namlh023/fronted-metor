@@ -25,3 +25,6 @@
 [submodule "01_newbie/article-preview-card"]
 	path = 01_newbie/article-preview-card
 	url = https://github.com/namlh023/article-preview-card
+[submodule "01_newbie/meet-landing-page"]
+	path = 01_newbie/meet-landing-page
+	url = https://github.com/namlh023/meet-landing-page

@@ -22,3 +22,6 @@
 [submodule "01_newbie/profile-card"]
 	path = 01_newbie/profile-card
 	url = https://github.com/namlh023/profile-card-component
+[submodule "01_newbie/article-preview-card"]
+	path = 01_newbie/article-preview-card
+	url = https://github.com/namlh023/article-preview-card

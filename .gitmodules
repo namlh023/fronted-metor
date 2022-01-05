@@ -37,3 +37,6 @@
 [submodule "01_newbie/huddle-landing-page"]
 	path = 01_newbie/huddle-landing-page
 	url = https://github.com/namlh023/huddle-landing-page
+[submodule "01_newbie/faq"]
+	path = 01_newbie/faq
+	url = https://github.com/namlh023/faq

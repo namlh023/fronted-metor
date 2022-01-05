@@ -43,3 +43,6 @@
 [submodule "01_newbie/ping-comming-soon"]
 	path = 01_newbie/ping-comming-soon
 	url = https://github.com/namlh023/ping-comming-soon
+[submodule "01_newbie/intro-with-sign-up-form"]
+	path = 01_newbie/intro-with-sign-up-form
+	url = https://github.com/namlh023/intro-component-with-sign-up-form

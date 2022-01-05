@@ -40,3 +40,6 @@
 [submodule "01_newbie/faq"]
 	path = 01_newbie/faq
 	url = https://github.com/namlh023/faq
+[submodule "01_newbie/ping-comming-soon"]
+	path = 01_newbie/ping-comming-soon
+	url = https://github.com/namlh023/ping-comming-soon

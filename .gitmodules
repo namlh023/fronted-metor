@@ -16,3 +16,6 @@
 [submodule "01_newbie/social-proof-section"]
 	path = 01_newbie/social-proof-section
 	url = https://github.com/namlh023/Social-Proof-Section
+[submodule "01_newbie/base-apparel-comming-soon-section"]
+	path = 01_newbie/base-apparel-comming-soon-section
+	url = https://github.com/namlh023/base-apparel-comming-soon-section

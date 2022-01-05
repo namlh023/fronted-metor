@@ -10,3 +10,6 @@
 [submodule "01_newbie/stats-preview-card"]
 	path = 01_newbie/stats-preview-card
 	url = https://github.com/namlh023/stats-preview-card-component
+[submodule "01_newbie/3-columns-preview-card"]
+	path = 01_newbie/3-columns-preview-card
+	url = https://github.com/namlh023/3-columns-preview-card

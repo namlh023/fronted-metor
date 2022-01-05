@@ -34,3 +34,6 @@
 [submodule "01_newbie/four-card-feature-section"]
 	path = 01_newbie/four-card-feature-section
 	url = https://github.com/namlh023/four-card-feature-section
+[submodule "01_newbie/huddle-landing-page"]
+	path = 01_newbie/huddle-landing-page
+	url = https://github.com/namlh023/huddle-landing-page

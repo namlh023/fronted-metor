@@ -7,3 +7,6 @@
 [submodule "01_newbie/equalizer-landing-page"]
 	path = 01_newbie/equalizer-landing-page
 	url = https://github.com/namlh023/equalizer-landing-page
+[submodule "01_newbie/stats-preview-card"]
+	path = 01_newbie/stats-preview-card
+	url = https://github.com/namlh023/stats-preview-card-component

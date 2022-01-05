@@ -13,3 +13,6 @@
 [submodule "01_newbie/3-columns-preview-card"]
 	path = 01_newbie/3-columns-preview-card
 	url = https://github.com/namlh023/3-columns-preview-card
+[submodule "01_newbie/social-proof-section"]
+	path = 01_newbie/social-proof-section
+	url = https://github.com/namlh023/Social-Proof-Section
